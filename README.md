@@ -32,11 +32,16 @@ This project is an interactive Power BI dashboard designed to analyze banking da
 ## 📷 Dashboard Preview
 
 ![Dashboard Overview](Images/Dashboard-Overview.png)
+
+
+### Overview
+![Overview](Images/Dashboard-Overview.png)
+
 ### Customers
 ![Customers](Images/Customer-Analysis.png)
 
 ### Transactions
-![Transactions](Images/Transactions-Analysis.png)
+![Transactions](Images/Transaction-Analysis.png)
 
 ### Loans
 ![Loans](Images/Loans-Analysis.png)
@@ -44,11 +49,11 @@ This project is an interactive Power BI dashboard designed to analyze banking da
 ### Support Calls
 ![Support Calls](Images/Support-Calls-Analysis.png)
 
-### Loan Tracking
-![Loan Tracking](Images/Loan-Tracking.png)
+### Loan Details
+![Loan Details](Images/Loan-Details-Table.png)
 
 ### Data Model
-![Data Model](Images/Data-Model.png)
+![Data Model](Images/Data-Mode.png)
 ## 💼 Skills Demonstrated
 - Data Cleaning
 - Data Modeling
