@@ -31,7 +31,7 @@ This project is an interactive Power BI dashboard designed to analyze banking da
 
 ## 📷 Dashboard Preview
 
-(Add dashboard screenshots here)
+![Dashboard Overview](Images/Dashboard-Overview.png)
 
 ## 💼 Skills Demonstrated
 - Data Cleaning
