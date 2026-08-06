@@ -33,10 +33,6 @@ This project is an interactive Power BI dashboard designed to analyze banking da
 
 ![Dashboard Overview](Images/Dashboard-Overview.png)
 
-
-### Overview
-![Overview](Images/Dashboard-Overview.png)
-
 ### Customers
 ![Customers](Images/Customer-Analysis.png)
 
